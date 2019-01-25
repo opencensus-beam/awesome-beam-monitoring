@@ -23,24 +23,16 @@ applications that run on BEAM. Inspired by many of such lists over the GitHub.
 
 ## Metrics
 
-- [Exometer](https://github.com/Feuerlabs/exometer_core) - Erlang
-  instrumentation package
-- [Elixometer](https://github.com/pinterest/elixometer) - thin Elixir wrapper
-  over Exometer
-- [Folsom](https://github.com/boundary/folsom) - expose Erlang events as metrics
-- [`metrics`](https://github.com/benoitc/erlang-metrics) - generic interface to
-  to a different metrics systems in Erlang
-- [Telemetry](https://github.com/beam-telemetry/telemetry) - dynamic dispatcher
-  for Erlang metrics and instrumentations
-- [Telemetry.Poller](https://github.com/beam-telemetry/telemetry_poller) -
-  periodically gather measurements and publish them as Telemetry events
-- [Statix](https://github.com/lexmag/statix) - fast and reliable Elixir client
-  for StatsD-compatible servers with some DogStatsD extensions (namely tags)
+- [Elixometer](https://github.com/pinterest/elixometer) - thin Elixir wrapper over Exometer
+- [Exometer](https://github.com/Feuerlabs/exometer_core) - Erlang instrumentation package
 - [Fluxter](https://github.com/lexmag/fluxter) - InfluxDB writer for Elixir
-- [Prometheus](https://github.com/deadtrickster/prometheus.erl) - Prometheus
-  integration for Erlang
-- [vmstats](https://github.com/ferd/vmstats) - tiny Erlang app to generate
-  information on the Erlang VM
+- [Folsom](https://github.com/boundary/folsom) - expose Erlang events as metrics
+- [`metrics`](https://github.com/benoitc/erlang-metrics) - generic interface to to a different metrics systems in Erlang
+- [Prometheus](https://github.com/deadtrickster/prometheus.erl) - Prometheus integration for Erlang
+- [Statix](https://github.com/lexmag/statix) - fast and reliable Elixir client for StatsD-compatible servers with some DogStatsD extensions (namely tags)
+- [Telemetry.Poller](https://github.com/beam-telemetry/telemetry_poller) - periodically gather measurements and publish them as Telemetry events
+- [Telemetry](https://github.com/beam-telemetry/telemetry) - dynamic dispatcher for Erlang metrics and instrumentations
+- [vmstats](https://github.com/ferd/vmstats) - tiny Erlang app to generate information on the Erlang VM
 
 ## Tracing
 
@@ -70,12 +62,9 @@ applications that run on BEAM. Inspired by many of such lists over the GitHub.
 ## Errors logging
 
 - [Aibrakex](https://github.com/fazibear/airbrakex) - Elixir client for Airbrake
-- [Bugsnag](https://github.com/jarednorman/bugsnag-elixir) - Elixir interface to
-  Bugsnag API
-- [Sentry](https://github.com/getsentry/sentry-elixir) - official Elixir SDK for
-  Sentry.io
-- [Rollbar](https://github.com/ForzaElixir/rollbax) - exception tracking and
-  logging from Elixir to Rollbar
+- [Bugsnag](https://github.com/jarednorman/bugsnag-elixir) - Elixir interface to Bugsnag API
+- [Rollbar](https://github.com/ForzaElixir/rollbax) - exception tracking and logging from Elixir to Rollbar
+- [Sentry](https://github.com/getsentry/sentry-elixir) - official Elixir SDK for Sentry.io
 
 ## License
 
