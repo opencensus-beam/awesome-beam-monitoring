@@ -6,6 +6,11 @@ Awesome BEAM Monitoring
 The curated list of tools for monitoring, instrumenting, and tracing
 applications that run on BEAM. Inspired by many of such lists over the GitHub.
 
+## Blog posts
+
+- [Logs and Metrics and Graphs, Oh My!](https://grafana.com/blog/2016/01/05/logs-and-metrics-and-graphs-oh-my/)
+- [Operable software](https://ferd.ca/operable-software.html) by [@ferd](https://github.com/ferd)
+
 ## Logging
 
 - [`lager`](https://github.com/erlang-lager/lager) - popular logging framework
@@ -34,9 +39,15 @@ applications that run on BEAM. Inspired by many of such lists over the GitHub.
 - [Fluxter](https://github.com/lexmag/fluxter) - InfluxDB writer for Elixir
 - [Prometheus](https://github.com/deadtrickster/prometheus.erl) - Prometheus
   integration for Erlang
+- [vmstats](https://github.com/ferd/vmstats) - tiny Erlang app to generate
+  information on the Erlang VM
 
 ## Tracing
 
+- [AppSignal](https://github.com/appsignal/appsignal-elixir) - AppSignal
+  Elixir integration package for gathering metrics, errors, and traces
+- [NewRelic client](https://github.com/newrelic/elixir_agent) - NewRelic's agent
+  for Elixir
 - [OpenCenus](https://github.com/census-instrumentation/opencensus-erlang) -
   implementation of Google's [OpenCensus.io](https://opencensus.io) tracing and
   monitoring with broad range of integrations:
@@ -55,6 +66,16 @@ applications that run on BEAM. Inspired by many of such lists over the GitHub.
 - [tracelog](https://github.com/opencensus-beam/tracelog) - logging handler that
   can transform structured logs into distributed tracing spans (for now supports
   only OpenCensus backend library)
+
+## Errors logging
+
+- [Aibrakex](https://github.com/fazibear/airbrakex) - Elixir client for Airbrake
+- [Bugsnag](https://github.com/jarednorman/bugsnag-elixir) - Elixir interface to
+  Bugsnag API
+- [Sentry](https://github.com/getsentry/sentry-elixir) - official Elixir SDK for
+  Sentry.io
+- [Rollbar](https://github.com/ForzaElixir/rollbax) - exception tracking and
+  logging from Elixir to Rollbar
 
 ## License
 
