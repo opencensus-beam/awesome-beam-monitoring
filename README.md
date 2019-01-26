@@ -51,6 +51,8 @@ applications that run on BEAM. Inspired by many of such lists over the GitHub.
   * [Plug](https://github.com/opencensus-beam/opencensus_plug)
   * [Prometheus](https://github.com/opencensus-beam/prometheus)
   * [Telemetry](https://github.com/opencensus-beam/opencensus_telemetry)
+- [Otter](https://github.com/Bluehouse-Technology/otter) - OpenTracing
+  integration library for Erlang
 - [Spandex](https://github.com/spandex-project/spandex) - tracing library for
   Elixir which supports DataDog APM. Integrations:
   * [Ecto](https://github.com/spandex-project/spandex_ecto)
