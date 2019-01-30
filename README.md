@@ -38,8 +38,7 @@ applications that run on BEAM. Inspired by many of such lists over the GitHub.
 
 - [AppSignal](https://github.com/appsignal/appsignal-elixir) - AppSignal
   Elixir integration package for gathering metrics, errors, and traces
-- [NewRelic client](https://github.com/newrelic/elixir_agent) - NewRelic's agent
-  for Elixir
+- [New Relic](https://github.com/newrelic/elixir_agent) - New Relic's Elixir agent supports metrics, errors and distributed tracing
 - [OpenCenus](https://github.com/census-instrumentation/opencensus-erlang) -
   implementation of Google's [OpenCensus.io](https://opencensus.io) tracing and
   monitoring with broad range of integrations:
