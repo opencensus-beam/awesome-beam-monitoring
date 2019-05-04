@@ -42,6 +42,7 @@ applications that run on BEAM. Inspired by many of such lists over the GitHub.
 - [OpenCenus](https://github.com/census-instrumentation/opencensus-erlang) -
   implementation of Google's [OpenCensus.io](https://opencensus.io) tracing and
   monitoring with broad range of integrations:
+  * [Absinthe](https://github.com/opencensus-beam/opencensus_absinthe)
   * [DataDog APM & DogStatsD](https://github.com/opencensus-beam/opencensus_datadog)
   * [Elixir](https://github.com/opencensus-beam/opencensus_elixir)
   * [Elli](https://github.com/opencensus-beam/opencensus_elli)
