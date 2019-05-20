@@ -47,6 +47,7 @@ applications that run on BEAM. Inspired by many of such lists over the GitHub.
   * [Elixir](https://github.com/opencensus-beam/opencensus_elixir)
   * [Elli](https://github.com/opencensus-beam/opencensus_elli)
   * [Google Reporter](https://github.com/opencensus-beam/oc_google_reporter)
+  * [Honeycomb](https://github.com/opencensus-beam/opencensus_honeycomb)
   * [InfluxDB](https://github.com/opencensus-beam/opencensus_influxdb)
   * [Jaeger](https://github.com/opencensus-beam/opencensus-jaeger)
   * [Plug](https://github.com/opencensus-beam/opencensus_plug)
